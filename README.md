@@ -782,7 +782,6 @@ Kaggle-ზე საბმიშენის შედეგები:
 
 ---
 
-
 ## Ensemble: DLinear + LightGBM + Prophet
 
 ### მიდგომა
@@ -803,3 +802,4 @@ Kaggle-ზე საბმიშენის შედეგები:
 
 leaderboard: N4 
 
+![res.png](images/res.png)
